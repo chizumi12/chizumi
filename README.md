@@ -1,5 +1,4 @@
 # chizumi
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -76,7 +75,7 @@
 
   <ul id="wishlistList"></ul>
 
-  <cript>
+  <script>
     let wishlist = [];
 
     // Ambil data dari localStorage saat halaman dimuat
