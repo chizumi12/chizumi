@@ -76,7 +76,7 @@
 
   <ul id="wishlistList"></ul>
 
-  <script>
+  <cript>
     let wishlist = [];
 
     // Ambil data dari localStorage saat halaman dimuat
